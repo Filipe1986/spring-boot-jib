@@ -8,6 +8,10 @@ You can containerize the application with one of the following commands.
 
 **Makefile:**
 
+check if make is install
+``` shell
+make -v
+```
 
 to run the app:
 
